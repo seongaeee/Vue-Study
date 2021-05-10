@@ -14,7 +14,7 @@
 
 <hr>
 
-#### 3. Vue 인스턴스 - 속성
+#### 3-1. Vue 인스턴스 - 속성
 
 ```html
 <script>
@@ -33,9 +33,13 @@
 
 <br>
 
-#### 4. Vue 인스턴스 - Life Cycle
+#### 3-2. Vue 인스턴스 - Life Cycle
 
 ![image](https://user-images.githubusercontent.com/62600984/117687155-777fd380-b1f2-11eb-8803-21488507126f.png)
 (출처: https://cigiko.cafe24.com/vue-js-뷰-인스턴스/)
 
+참고 블로그: https://dahye-jeong.gitbook.io/vue-js/vuejs/2019-10-15-instance
+
 <hr>
+
+### 4. Template
