@@ -42,4 +42,6 @@
 
 <hr>
 
-### 4. Template
+#### 4. Template
+
+- DOM의 요소와 Vue 인스턴스를 매핑
