@@ -1,0 +1,41 @@
+#### 1. Vue
+
+- 웹 화면을 개발하기 위한 프론트엔드 프레임워크
+
+<hr>
+
+#### 2. Vue 특징 - MVVM Pattern
+
+![image](https://user-images.githubusercontent.com/62600984/117683418-01c63880-b1ef-11eb-916b-72ee76fa4c4d.png)
+
+(출처: https://k39335.tistory.com/60)
+- M: Model / V: View / VM: ViewModel
+- View와 Model을 연결하고 자동 바인딩 (양방향 통신)
+
+<hr>
+
+#### 3. Vue 인스턴스 - 속성
+
+```html
+<script>
+  var vm = new Vue({
+    el: "",
+    data: {},
+    methods: {},
+    filters: {},
+    watch: {},
+    computed: {},
+  });
+</script>
+```
+- el: vue가 적용될 css/html
+- data: vue가 사용하는 정보
+
+<br>
+
+#### 4. Vue 인스턴스 - Life Cycle
+
+![image](https://user-images.githubusercontent.com/62600984/117687155-777fd380-b1f2-11eb-8803-21488507126f.png)
+(출처: https://cigiko.cafe24.com/vue-js-뷰-인스턴스/)
+
+<hr>
